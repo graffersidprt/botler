@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+}
+
+.css-1m9128y {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px !important;
+}
+
+.css-5c6svx-MuiButtonBase-root-MuiIconButton-root{
+    color: #fff !important;
+    background-color: #082B44 !important;
+    margin-left: 10px;
+}
+
+.css-julzvx-MuiButtonBase-root-MuiIconButton-root{
+    color: #0A395B !important;
+    background-color: #082B44 !important;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+    justify-content: space-between;
+    position: absolute;
+}
+
+.css-10hburv-MuiTypography-root{
+    font-size: 0.9rem !important;
+    font-weight: 600 !important;
+    line-height: "24px" !important;
+}
+
+.error-border input {
+    border-color: red;
+  }
+
+  .css-19kzrtu {
+    padding: 0px !important;
+}
+
+.css-1f4njj8-MuiInputBase-root-MuiTablePagination-select{
+    display: none !important;
+}
+
+.css-1kb3594-MuiListItem-root{
+    padding-left: 3px !important;
+}
+
+.css-kbq23k-MuiFormControl-root-MuiTextField-root.MuiTextField-root {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 64px !important;
+    height: 64px;
+    border-radius: 8px;
+    border: 3px solid #082B44 !important;
+    box-shadow: 2px 2px 4px rgba(16, 24, 40, 0) !important;
+    padding: 2px 8px
+}
+
